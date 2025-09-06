@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/a310332d-b1f5-4c42-8ed9-7f8cff88cf10)
 
-The portfolio dashboards highlight consistent growth in sales, cost, and profit performance, supported by a strong customer base and steady order volumes.
+The dashboards highlight consistent growth in sales, cost, and profit performance, supported by a strong customer base and steady order volumes.
 Overall sales and order quantities reflect positive momentum, while profit margins remain healthy around the 40% range. The data also shows fluctuations in performance across quarters, with noticeable peaks in the middle of the year and contributions driven by key customers.
 
 Order and quantity trends demonstrate both scale and customer diversity, with top accounts contributing significantly to overall revenue while maintaining manageable return rates. The dashboards capture critical KPIs such as sales averages, total orders, quantities sold, and profit margins, giving a clear picture of overall business health and performance progression over time.
